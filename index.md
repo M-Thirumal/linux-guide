@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# linux-guide
+Linux concepts and commands 
 
-You can use the [editor on GitHub](https://github.com/M-Thirumal/linux-guide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M-Thirumal/linux-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [User Group](User%20Group)
+   1. [Create user with sudo/shell/ssh/..](User%20Group/sudo%20user.md)
+   2. [Password](User%20Group/passwd.md)
+   3. [User](User%20Group/User.md)
+   4. [Group](User%20Group/Group.md)
+2. [HardWare](Hardware)
+   1. [RAM](Hardware/ram.md)
+   2. [CPU](Hardware/cpu.md)
+3. [File System](File%20System)
+   1. [Storage](File%20System/Storage.md)
+4. [File Management](File%20Management)
+   1. [File commands](File%20Management/command.md)
